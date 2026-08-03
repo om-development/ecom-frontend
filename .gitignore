@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# unused create-next-app boilerplate assets
+/public/next.svg
+/public/vercel.svg
+/public/file.svg
+/public/globe.svg
+/public/window.svg
+
+# editor / OS
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
